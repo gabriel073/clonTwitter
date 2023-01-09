@@ -99,7 +99,7 @@ const Layout = ({ children }: propsWithChildren): JSX.Element => {
 
                     <Stack paddingX={4} alignItems="center" direction="row" justifyContent="space-between" paddingY={4}>
                        <Stack direction="row" alignItems="center">
-                       <Image borderRadius="50%" height={10} src="//placehold.it/64x64" width={10}/>
+                       <Image borderRadius="50%" height={10}    src="https://avatars.githubusercontent.com/u/56644711?s=400&u=8b7a0fc8c73b0c52446b77b83fcd484f95ffd2c9&v=4" width={10}/>
                        <Stack spacing={0}>
                         <Text fontWeight="bold" fontSize="sm" color={userColor}>Gaby.tsx</Text>
                         <Text fontSize="sm" color="gray.600">@Gaby73</Text>
